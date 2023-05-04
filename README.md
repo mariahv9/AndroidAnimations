@@ -41,15 +41,19 @@ Animations with Android Jetpack Compose provide developers with a strong tool fo
 Also, to add personality and flair to an app's design, animations can be created with less code and greater flexibility than traditional Android frameworks. It's important to use sparingly to avoid the user's distractions from the app's core functionality. Additionally, developers should always keep performance.
 While tween animation is simple, spring animation and keyframe animation provide more advanced and flexible properties for creating dynamic animations. The preference of animation type depends on the specific needs of the app and the desired visual effect.
 
-### Bibliography
+## Bibliography
 
 Animations in compose. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/jetpack/compose/animation
 
+
 InfiniteTransition. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/reference/kotlin/androidx/compose/animation/core/InfiniteTransition
+
 
 KeyframesSpec. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/reference/kotlin/androidx/compose/animation/core/KeyframesSpec
 
+
 Kumar. (2022, mayo 25). Animation in Android Jetpack Compose. SemicolonSpace. https://semicolonspace.com/android-jetpack-compose-animatable/
 Tipos de animaciones en Android. (2017, julio 26). 
+
 
 Platzi. https://platzi.com/blog/animaciones-en-android/
