@@ -44,7 +44,12 @@ While tween animation is simple, spring animation and keyframe animation provide
 ### Bibliography
 
 Animations in compose. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/jetpack/compose/animation
+
 InfiniteTransition. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/reference/kotlin/androidx/compose/animation/core/InfiniteTransition
+
 KeyframesSpec. (s/f). Android Developers. Recuperado el 4 de mayo de 2023, de https://developer.android.com/reference/kotlin/androidx/compose/animation/core/KeyframesSpec
+
 Kumar. (2022, mayo 25). Animation in Android Jetpack Compose. SemicolonSpace. https://semicolonspace.com/android-jetpack-compose-animatable/
-Tipos de animaciones en Android. (2017, julio 26). Platzi. https://platzi.com/blog/animaciones-en-android/
+Tipos de animaciones en Android. (2017, julio 26). 
+
+Platzi. https://platzi.com/blog/animaciones-en-android/
